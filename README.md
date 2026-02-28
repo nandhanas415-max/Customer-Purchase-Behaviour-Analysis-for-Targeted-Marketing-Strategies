@@ -1,0 +1,2 @@
+# Customer-Purchase-Behaviour-Analysis-for-Targeted-Marketing-Strategies
+This project analyzes customer purchase behavior using AdaBoost to predict likely buyers. Insights on age, income, loyalty, and discounts are visualized with Tableau, and an interactive Streamlit dashboard allows marketers to explore customer segments, target high-value customers, and optimize marketing strategies for better sales and ROI.
